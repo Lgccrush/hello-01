@@ -1,0 +1,10 @@
+# Gradle build directory
+/build/
+.gradle/
+
+# IDE directories
+*.iml
+.idea/
+
+# Logs
+*.log
